@@ -1,0 +1,7 @@
+Beautiful occurs 3 times.
+Hello occurs 3 times.
+Personal occurs 3 times.
+Electronics occurs 3 times.
+Home occurs 3 times.
+Mobile occurs 3 times.
+Caring occurs 3 times.
